@@ -14,7 +14,7 @@ public class GT4500Test {
   }
 
   @Test
-  public void fireTorpedoSingleSuccess(){
+  public void fireTorpedo_Single_Success(){
     // Arrange
 
     // Act
@@ -25,7 +25,7 @@ public class GT4500Test {
   }
 
   @Test
-  public void fireTorpedoAllSuccess(){
+  public void fireTorpedo_All_Success(){
     // Arrange
 
     // Act
